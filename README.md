@@ -1,5 +1,5 @@
 
-# LackRack 2025 Reinforced
+# LackRack 2025 Reinforced (WIP)
 ------
 <div align="center">
 <img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="255" height="345" >&nbsp;<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_182450.jpg" width="255" height="345" >

@@ -1,11 +1,13 @@
 
-# LackRack 20XX
+# LackRack 2025 Reinforced
 ------
 <div align="center">
 <img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="255" height="345" >&nbsp;<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_182450.jpg" width="255" height="345" >
 </div>
 
-This is a 2017 take on a classic project: [The LackRack](https://wiki.eth0.nl/index.php/LackRack)
+Got the Idea for this version of the lackrack from [NiBuch](https://github.com/NiBuch/LackRack-20XX?tab=readme-ov-file) with some tweaks based on my own needs and concerns with the original and modified projects.
+
+This is a 2025 take on a classic project: [The LackRack](https://wiki.eth0.nl/index.php/LackRack)
 
 For those unfamiliar, the legs on IKEA's [LACK](http://www.ikea.com/us/en/catalog/products/40104270/#/20011408)
 side tables are spaced almost perfectly for rackmount equipment. With a price tag of around US$9.99 each, many
@@ -13,24 +15,23 @@ enterprising hackers have turned to using LACK tables in place of traditional se
 over US$100 and are often too unwieldy for home use. 
 
 The so-called "LackRack" has existed in many forms over the years. Builds published online include everything
-from bolting multiple LACK tables together and adding rails to [welding steel supports](http://davidwhiteit.com/2016/01/lack-rack-mobile-enterprise-edition-pt1/)
- and [adding side panels](http://imgur.com/a/H7KZI). LackRack 20XX is a personal take on the project, with a 
+from bolting multiple LACK tables together and [adding side panels](http://imgur.com/a/H7KZI). LackRack 2025 Reinforced is a personal take on the project, with a 
 number of added features designed to enhance stability and flexibility. 
 
-Note that LackRack 20XX was designed for lightweight equipment and use in a home office. Those using heavier 
-devices should plan their build accordingly.
+Note that LackRack 2025 Reinforced was designed for all weights of equipment and use in a home office or home networking closet. This should suit the needs of most lightweight and heavyweight rackmount equipment accordingly.
 
 ------
 ### Materials
 ------
 
-+ 3x [IKEA LackRacks](http://www.ikea.com/us/en/catalog/products/40104270/#/20011408)
++ 2x [IKEA LackRacks](http://www.ikea.com/us/en/catalog/products/40104270/#/20011408)
 + 1x [Pair of 16U Rack Rails](https://www.amazon.com/gp/product/B00JJ18P3K/ref=oh_aui_detailpage_o07_s01?ie=UTF8&psc=1)
 + 4x [Locking Caster Wheels](http://www.acehardware.com/product/index.jsp?productId=1296565)
-+ 4x [1.5" x 1 3/8" Mending Braces](http://www.acehardware.com/product/index.jsp?productId=53085336)
++ 4x [3.5-in x 1.42-in x 0.07-in](https://www.lowes.com/pd/ReliaBilt-RB-3-5-IN-ZN-MENDING-BRACE-4-CT/5001634729)
 + 4x [1-1/2" x 5/8" L-Braces](http://www.acehardware.com/product/index.jsp?productId=29675846)
 + [Rack Rail Screws and Washers](https://www.amazon.com/gp/product/B00JQYUAQU/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 + 20x 14x1" Wood Screws*
++ 4x 44mmx44mm Wood Slabs
 
 The links above are the materials I purchased, chosen out of convenience and budget. It is definitely possible to 
 substitute cheaper alternatives in some places (ex. making your own rails), or forgo some features entirely.

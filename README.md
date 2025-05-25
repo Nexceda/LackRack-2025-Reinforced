@@ -5,6 +5,8 @@
 <img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="255" height="345" >&nbsp;<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_182450.jpg" width="255" height="345" >
 </div>
 
+I have not started this build yet but will do so soon with a full write up. The main differences are that the hollow legs are getting filled with 44mm blanks for the ability to mount heavier hardware. I may as well add a set of rails to the back for deeper chassis.
+
 Got the Idea for this version of the lackrack from [NiBuch](https://github.com/NiBuch/LackRack-20XX?tab=readme-ov-file) with some tweaks based on my own needs and concerns with the original and modified projects.
 
 This is a 2025 take on a classic project: [The LackRack](https://wiki.eth0.nl/index.php/LackRack)
